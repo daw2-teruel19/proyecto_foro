@@ -2422,13 +2422,13 @@ fieldset:disabled a.btn {
 .btn-primary {
   color: #fff;
   background-color: #76787a;
-  border-color: #76787a;
+  border-color: black;
 }
 
 .btn-primary:hover {
-  color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  color: #000000;
+  background-color: white;
+  border-color: #000000;
 }
 
 .btn-primary:focus, .btn-primary.focus {
